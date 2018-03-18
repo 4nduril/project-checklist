@@ -3,8 +3,8 @@
 ## Non-Technical
 
 * How many people are in the team (devs, designer, tester)?
- * If more than 10: __alert__ How is work coordinated, are there sub- or super-structures?
- * If 10 or less: What is the concrete focus of the team, what are its responsibilities?
+  * If more than 10: __alert__ How is work coordinated, are there sub- or super-structures?
+  * If 10 or less: What is the concrete focus of the team, what are its responsibilities?
 * Is diversity something that is considered in hiring processes? 
 * How many of the team members are non-male?
 * If there is more than one team: How are the teams working together on global or cross-team tasks?
