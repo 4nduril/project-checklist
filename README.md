@@ -6,7 +6,7 @@
   * If more than 10: __alert__ How is work coordinated, are there sub- or super-structures?
   * If 10 or less: What is the concrete focus of the team, what are its responsibilities?
 * Is diversity something that is considered in hiring processes? 
-* How many of the team members are non-male?
+* How many of the team members are non-cis-male?
 * If there is more than one team: How are the teams working together on global or cross-team tasks?
 * Are there regular developer meetings where current topics are discussed?
 * What agile methodology is followed? How is this reflected in daily processes?
