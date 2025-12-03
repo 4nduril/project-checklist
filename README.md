@@ -30,7 +30,6 @@
   * If Angular: Which version? If <2: __alert__
   * If React:
     * Which state-management is used (React, Redux, MobX …) and why?
-    * Is there a separation between presentational and logical components? If not: __alert__
 * Is SSR deployed/planned? (Not "Some HTML is somehow rendered" but real Server-Side-Rendering in JavaScript on request) If not: __alert__
 * Is the overall coding style more object-oriented or more functional?
 * Is there mandatory unit testing? If not: __alert__
